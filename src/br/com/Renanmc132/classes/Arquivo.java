@@ -10,7 +10,7 @@ public class Arquivo {
 
     public void CriarJson(String name, CEP cep) throws IOException {
 
-        FileWriter writer = new FileWriter(name);
+        FileWriter writer = new FileWriter(name+".json");
 
         Gson gson = new Gson()
                 .newBuilder()
