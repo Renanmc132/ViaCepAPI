@@ -273,4 +273,4 @@ Se este projeto foi útil para você ou ajudou nos seus estudos de Java, conside
 
 https://github.com/Renanmc132/ViaCepAPI
 
-<p align="center"> Desenvolvido com ☕ Java e 💻 dedicação por <strong>Renanmc132</strong>. </p> :::{"fallbackMarkdown":"","reference":{"matched_text":" ","prefix":null,"start_idx":10556,"end_idx":10556,"safe_urls":[],"refs":[],"alt":"","prompt_text":null,"type":"sources_footnote","sources":[{"title":"ViaCepAPI/src/br/com/Renanmc132/classes/ConsultaAPI.java at main · Renanmc132/ViaCepAPI · GitHub","url":"https://github.com/Renanmc132/ViaCepAPI/blob/main/src/br/com/Renanmc132/classes/ConsultaAPI.java","attribution":"GitHub"}],"has_images":false},"showLoginRequiredCard":false}
+<p align="center"> Desenvolvido com ☕ Java e 💻 dedicação por <strong>Renanmc132</strong>. </p>
